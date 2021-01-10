@@ -1,6 +1,6 @@
-# Demo App
+# Demo
 
-[Demo](https://my-blog-with-firebase.web.app/)
+[Click me for demo](https://my-blog-with-firebase.web.app/)
 
 # Getting Started with Create React App
 
